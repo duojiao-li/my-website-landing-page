@@ -1,0 +1,5 @@
+.box{
+	display: flex;
+	justify:space-around;
+	align-items: center;
+}
